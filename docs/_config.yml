@@ -18,11 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome to the Tudoroiu's homepage!
-description: Feel free to bookmark this to keep an eye on my project updates.
+title: Mihai Tudoroiu
+description:           >
+My personal blog
+Feel free to bookmark this to keep an eye on my project updates.
+
 email: mihaitudo@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url:                   https://mihaitudoroiu.github.io
+lang:                  en
 twitter_username: jekyllrb
 github_username:  jekyll
 
