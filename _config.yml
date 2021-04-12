@@ -10,3 +10,9 @@ url:                   https://mihaitudoroiu.github.io
 lang:                  en
 linkedin_username: Mihai Tudoroiu
 github_username:  MihaiTudoroiu
+
+theme: jekyll-theme-dinky
+plugins:
+  - jekyll-feed
+  
+ copyright:             © 2021. All rights reserved.
