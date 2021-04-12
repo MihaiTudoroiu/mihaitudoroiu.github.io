@@ -1,16 +1,1 @@
-description:           >
-    My personal blog
-    Feel free to bookmark this to keep an eye on my project updates.
-email:                 mihaitudo@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url:                   https://mihaitudoroiu.github.io
-lang:                  en
-twitter_username: jekyllrb
-github_username:  jekyll
 
-# Build settings
-theme: jekyll-theme-dinky
-plugins:
-  - jekyll-feed
-  
- copyright:             © 2021. All rights reserved.
