@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mihai Tudoroiu
+title:                 Mihai Tudoroiu
 description:           >
     My personal blog
     Feel free to bookmark this to keep an eye on my project updates.
 
-email: mihaitudo@gmail.com
+email:                 mihaitudo@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url:                   https://mihaitudoroiu.github.io
 lang:                  en
