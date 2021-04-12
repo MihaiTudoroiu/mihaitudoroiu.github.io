@@ -22,7 +22,7 @@ title: Welcome to the Tudoroiu's homepage!
 description: Feel free to bookmark this to keep an eye on my project updates.
 email: mihaitudo@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url:                   https://mihaitudoroiu.github.io
 twitter_username: jekyllrb
 github_username:  jekyll
 
