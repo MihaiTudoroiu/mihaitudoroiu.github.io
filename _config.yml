@@ -3,3 +3,10 @@ title: Mihai Tudoroiu
 description:           
     My personal blog.                             
     Feel free to bookmark this to keep an eye on my project updates.
+
+email: mihaitudo@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url:                   https://mihaitudoroiu.github.io
+lang:                  en
+twitter_username: jekyllrb
+github_username:  jekyll
